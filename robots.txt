@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.sdlpwld.cn/sitemap.xml
